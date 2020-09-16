@@ -1,0 +1,8 @@
+p {
+  color: blue;
+}
+
+/*マスタッシュのチラつき防止*/
+[v-cloak] {
+  display: none;
+}
